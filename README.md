@@ -7,7 +7,7 @@ Lets you create Jira issues via your SAP System
 
 **Class zcl_jira_issue_creater**
 
-![image](https://github.com/clemens1994/ABAP_JIRA_CLIENT/assets/43879201/a47aff36-1c4b-4e12-8b88-a7092d60f0fc)
+![image](https://github.com/clemens1994/ABAP_JIRA_CLIENT/assets/43879201/f9cf4852-f572-46f3-972a-bccc0429051d)
 
 To find your assignee id just go to your jira profile and replace "%3A" with ":" 
 
